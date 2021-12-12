@@ -27,8 +27,11 @@
     - Clone o repositório
     ```
     git clone git@github.com:Crypto-Mikael/PSEL-CROSSCOMMERCE.git
-    cd PSEL-CROSSCOMMERCE
     ```
+    - Entre na pasta
+   ```
+    cd PSEL-CROSSCOMMERCE
+   ```
     - Estancie uma venv (Ubuntu)
     ```
     python3 -m venv env
