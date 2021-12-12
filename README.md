@@ -29,12 +29,17 @@
     git clone git@github.com:Crypto-Mikael/PSEL-CROSSCOMMERCE.git
     cd PSEL-CROSSCOMMERCE
     ```
-    - Estancie uma venv
+    - Estancie uma venv (Ubuntu)
     ```
     python3 -m venv env
     source env/bin/activate
     ```
-    - Instale os modulos dependentes do projeto
+    -- Estancie uma venv (Windows)
+    ```
+    python3 -m venv env
+    .\env\Scripts\activate
+    ```
+    - Instale os modulos de dependencia do projeto
     ```
     pip3 install -r requirements.txt
     ```
