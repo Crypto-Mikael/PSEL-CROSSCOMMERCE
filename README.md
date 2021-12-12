@@ -50,5 +50,7 @@
     ```
     uvicorn main:app --reload
     ```
-  
+3 - Faça uma requisição GET no localhost:8000
+   - Requisição no endpoint:
+   <a>http://127.0.0.1:8000<a>
   
