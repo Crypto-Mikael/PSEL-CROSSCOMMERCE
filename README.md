@@ -34,7 +34,7 @@
     python3 -m venv env
     source env/bin/activate
     ```
-    -- Estancie uma venv (Windows)
+    - Estancie uma venv (Windows)
     ```
     python3 -m venv env
     .\env\Scripts\activate
