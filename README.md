@@ -28,7 +28,7 @@
     ```
     git clone git@github.com:Crypto-Mikael/PSEL-CROSSCOMMERCE.git
     ```
-    - Entre na pasta
+    - Entre na pasta do projeto
    ```
     cd PSEL-CROSSCOMMERCE
    ```
