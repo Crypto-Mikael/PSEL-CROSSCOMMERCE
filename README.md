@@ -1,4 +1,4 @@
-# Boas vindas ao Repositorio do API com Order With Python!
+# Boas vindas ao Repositorio do API com Python!
 
 # Instruções para iniciar a API:
 
